@@ -48,8 +48,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name:I.Deva Dharshini
+### Register Number:212223240026 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
